@@ -11,3 +11,7 @@ end
 get "/si" do 
 	"Hola Sinatra!"
 end
+
+get "/laura" do
+	"Still haven't learned graphics :("
+end
